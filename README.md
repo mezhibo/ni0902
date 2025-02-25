@@ -37,4 +37,4 @@ SNMP Community: netology_snmp
 ![Image alt](https://github.com/mezhibo/ni0902/blob/e3c2d2813d69359c741ad5c6a9c2beb8750c8eb3/IMG/2.jpg)
 
 
-![Image alt](https://github.com/mezhibo/ni0902/blob/e3c2d2813d69359c741ad5c6a9c2beb8750c8eb3/IMG/3.jpg)
+![Image alt](https://github.com/mezhibo/ni0902/blob/aab1caefd322ec94ff07180694dc694191ee4d91/IMG/4.jpg)
